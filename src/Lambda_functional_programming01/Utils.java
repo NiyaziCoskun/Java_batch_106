@@ -1,4 +1,4 @@
-package lambda_functional_programming01;
+package Lambda_functional_programming01;
 
 public class Utils {
     public static void ayniSatirdaBosluklaYazdir(Object obj){
