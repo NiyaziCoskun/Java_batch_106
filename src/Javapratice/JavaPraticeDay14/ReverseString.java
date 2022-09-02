@@ -25,9 +25,10 @@ public class ReverseString {
         int count=0;
         for(l=0;l<r;l++,r--) {
             // swap işlemi yapıyoruz..
-            String t = str[l];
+            String temp = str[l];
             str[l] = str[r];
-            str[r] = t;
+            str[r] = temp;
+            count++;
 
 
         }
