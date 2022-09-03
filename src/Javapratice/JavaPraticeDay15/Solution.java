@@ -1,4 +1,4 @@
-package JavaPraticeDay15;
+package Javapratice.JavaPraticeDay15;
 
 public class Solution {
     /*

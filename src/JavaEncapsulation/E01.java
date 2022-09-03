@@ -21,8 +21,9 @@ public class E01 {
                 return memory;
             }
 
-
-
+            public void setMemory(String memory) {
+                this.memory = memory;
+            }
 
             public String getProcessor() {
                 return processor;
